@@ -1,0 +1,1158 @@
+{
+    "0": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": false,
+            "1": false,
+            "12": false,
+            "13": false,
+            "2": false,
+            "3": false,
+            "4": false,
+            "5": false
+        },
+        "mystery_rank": 0,
+        "name": "None",
+        "normal_rank": 0
+    },
+    "1": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "雌火龙",
+        "normal_rank": 1
+    },
+    "100": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "蛮颚龙",
+        "normal_rank": 1
+    },
+    "102": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "毒妖鸟",
+        "normal_rank": 1
+    },
+    "107": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "搔鸟",
+        "normal_rank": 0
+    },
+    "108": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "泥鱼龙",
+        "normal_rank": 1
+    },
+    "109": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "飞雷龙",
+        "normal_rank": 1
+    },
+    "118": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 5,
+        "name": "爆鳞龙",
+        "normal_rank": 4
+    },
+    "124": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "冰咒龙",
+        "normal_rank": 5
+    },
+    "1303": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "激昂金狮子",
+        "normal_rank": 5
+    },
+    "132": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "爵银龙",
+        "normal_rank": 4
+    },
+    "133": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "冰狼龙",
+        "normal_rank": 3
+    },
+    "134": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "刚缠兽",
+        "normal_rank": 2
+    },
+    "1351": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 7,
+        "name": "混沌黑蚀龙",
+        "normal_rank": 5
+    },
+    "136": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 5,
+        "name": "棘龙",
+        "normal_rank": 3
+    },
+    "1366": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "天慧龙",
+        "normal_rank": 5
+    },
+    "1369": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "嗟怨震天怨虎龙",
+        "normal_rank": 5
+    },
+    "1398": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "红莲爆鳞龙",
+        "normal_rank": 5
+    },
+    "1793": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·雌火龙",
+        "normal_rank": 11
+    },
+    "1794": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·火龙",
+        "normal_rank": 11
+    },
+    "1799": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "10": true,
+            "14": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·角龙",
+        "normal_rank": 11
+    },
+    "1849": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·雷狼龙",
+        "normal_rank": 11
+    },
+    "1852": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·青熊兽",
+        "normal_rank": 11
+    },
+    "1874": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霸主·泡狐龙",
+        "normal_rank": 11
+    },
+    "19": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "大名盾蟹",
+        "normal_rank": 0
+    },
+    "2": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "火龙",
+        "normal_rank": 3
+    },
+    "20": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "14": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "将军镰蟹",
+        "normal_rank": 2
+    },
+    "2072": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 7,
+        "name": "怪异克服钢龙",
+        "normal_rank": 11
+    },
+    "2073": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 7,
+        "name": "怪异克服霞龙",
+        "normal_rank": 11
+    },
+    "2075": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 7,
+        "name": "怪异克服炎王龙",
+        "normal_rank": 11
+    },
+    "2120": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 8,
+        "name": "怪异克服天廻龙",
+        "normal_rank": 11
+    },
+    "2134": {
+        "capture": false,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 8,
+        "name": "怪异克服天慧龙",
+        "normal_rank": 11
+    },
+    "23": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 5,
+        "name": "金狮子",
+        "normal_rank": 4
+    },
+    "24": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "钢龙",
+        "normal_rank": 4
+    },
+    "25": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "霞龙",
+        "normal_rank": 4
+    },
+    "27": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "炎王龙",
+        "normal_rank": 4
+    },
+    "3": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "14": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "奇怪龙",
+        "normal_rank": 1
+    },
+    "32": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "轰龙",
+        "normal_rank": 3
+    },
+    "346": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "绯天狗兽",
+        "normal_rank": 1
+    },
+    "349": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "冰人鱼龙",
+        "normal_rank": 2
+    },
+    "350": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 5,
+        "name": "炽妃蜘蛛",
+        "normal_rank": 3
+    },
+    "351": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "熔翁龙",
+        "normal_rank": 3
+    },
+    "37": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "迅龙",
+        "normal_rank": 2
+    },
+    "392": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "棘茶龙",
+        "normal_rank": 5
+    },
+    "4": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "14": true,
+            "2": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "岩龙",
+        "normal_rank": 1
+    },
+    "42": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "冰牙龙",
+        "normal_rank": 2
+    },
+    "44": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "土砂龙",
+        "normal_rank": 0
+    },
+    "47": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "12": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "水兽",
+        "normal_rank": 0
+    },
+    "513": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "金火龙",
+        "normal_rank": 5
+    },
+    "514": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 6,
+        "name": "银火龙",
+        "normal_rank": 5
+    },
+    "54": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "14": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "眠狗龙王",
+        "normal_rank": 0
+    },
+    "549": {
+        "capture": true,
+        "main": false,
+        "maps": {
+            "0": true,
+            "14": true
+        },
+        "mystery_rank": 11,
+        "name": "月迅龙",
+        "normal_rank": 5
+    },
+    "57": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "雷狼龙",
+        "normal_rank": 3
+    },
+    "59": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "毒狗龙王",
+        "normal_rank": 0
+    },
+    "594": {
+        "capture": true,
+        "main": false,
+        "maps": {
+            "0": true,
+            "10": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "焰狐龙",
+        "normal_rank": 5
+    },
+    "60": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "青熊兽",
+        "normal_rank": 0
+    },
+    "61": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "白兔兽",
+        "normal_rank": 0
+    },
+    "62": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "13": true,
+            "2": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "赤甲兽",
+        "normal_rank": 0
+    },
+    "7": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "14": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "角龙",
+        "normal_rank": 3
+    },
+    "71": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "13": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 5,
+        "name": "黑蚀龙",
+        "normal_rank": 3
+    },
+    "72": {
+        "capture": false,
+        "main": false,
+        "maps": {
+            "10": true,
+            "13": true,
+            "14": true,
+            "9": true
+        },
+        "mystery_rank": 11,
+        "name": "天廻龙",
+        "normal_rank": 4
+    },
+    "77": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "13": true,
+            "14": true,
+            "2": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "千刃龙",
+        "normal_rank": 3
+    },
+    "81": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "电龙",
+        "normal_rank": 3
+    },
+    "82": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 4,
+        "name": "泡狐龙",
+        "normal_rank": 3
+    },
+    "89": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "14": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "怨虎龙",
+        "normal_rank": 2
+    },
+    "90": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "天狗兽",
+        "normal_rank": 1
+    },
+    "91": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "14": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "伞鸟",
+        "normal_rank": 0
+    },
+    "92": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "12": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 1,
+        "name": "河童兽",
+        "normal_rank": 0
+    },
+    "93": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "3": true,
+            "4": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 2,
+        "name": "人鱼龙",
+        "normal_rank": 1
+    },
+    "94": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "10": true,
+            "14": true,
+            "2": true,
+            "5": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "妃蜘蛛",
+        "normal_rank": 2
+    },
+    "95": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "0": true,
+            "1": true,
+            "10": true,
+            "14": true,
+            "2": true,
+            "3": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "泥翁龙",
+        "normal_rank": 2
+    },
+    "97": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "10": true,
+            "13": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 3,
+        "name": "雪鬼兽",
+        "normal_rank": 2
+    },
+    "98": {
+        "capture": true,
+        "main": true,
+        "maps": {
+            "1": true,
+            "10": true,
+            "4": true,
+            "9": true
+        },
+        "mystery_rank": 0,
+        "name": "镰鼬龙王",
+        "normal_rank": 0
+    }
+}
